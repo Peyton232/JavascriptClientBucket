@@ -33,11 +33,11 @@ class ApiClient {
      * Overrides the default value set in spec file if present
      * @param {String} basePath
      */
-    constructor(basePath = 'https://virtserver.swaggerhub.com/Peyton232/BucketBudget/1.0.0') {
+    constructor(basePath = 'https://stingray-app-2a42m.ondigitalocean.app') {
         /**
          * The base URL against which to resolve every API call's (relative) path.
          * @type {String}
-         * @default https://virtserver.swaggerhub.com/Peyton232/BucketBudget/1.0.0
+         * @default https://stingray-app-2a42m.ondigitalocean.app
          */
         this.basePath = basePath.replace(/\/+$/, '');
 
@@ -592,12 +592,8 @@ class ApiClient {
     hostSettings() {
         return [
             {
-              'url': "https://virtserver.swaggerhub.com/Peyton232/BucketBudget/1.0.0",
-              'description': "SwaggerHub API Auto Mocking",
-            },
-            {
               'url': "https://stingray-app-2a42m.ondigitalocean.app",
-              'description': "No description provided",
+              'description': "SwaggerHub API Auto Mocking",
             }
       ];
     }

@@ -1,6 +1,6 @@
 # TodoBudget.DefaultApi
 
-All URIs are relative to *https://virtserver.swaggerhub.com/Peyton232/BucketBudget/1.0.0*
+All URIs are relative to *https://stingray-app-2a42m.ondigitalocean.app*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
