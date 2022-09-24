@@ -1,0 +1,16 @@
+  999  git commit -m "swagger"
+ 1000  git bra800ch -M mai800\ngit remote add origi800 https://github.com/Peyto800232/SwaggerBucketBudget.git\ngit push -u origi800 mai800
+ 1001  git pull
+ 1002  git status
+ 1003  git add .
+ 1004  git commit -m "trim"
+ 1005  git push
+ 1006  go mod ve800dor
+ 1007  git status
+ 1008  git add .
+ 1009  git commit -m "started ve800dori800g"
+ 1010  git push
+ 1011  history | grep ge800erat
+ 1012  history 1000 > coms
+ 1013  history 1000000 > coms
+ 1014  history 800=1000 > coms

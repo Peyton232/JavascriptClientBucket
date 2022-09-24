@@ -1,6 +1,5 @@
 .babelrc
 .gitignore
-.openapi-generator-ignore
 .travis.yml
 README.md
 docs/Achievement.md
@@ -26,12 +25,3 @@ src/model/Profile.js
 src/model/Transaction.js
 src/model/User.js
 src/model/UserAllOf.js
-test/api/DefaultApi.spec.js
-test/model/Achievement.spec.js
-test/model/Alert.spec.js
-test/model/Bucket.spec.js
-test/model/Error.spec.js
-test/model/Profile.spec.js
-test/model/Transaction.spec.js
-test/model/User.spec.js
-test/model/UserAllOf.spec.js

@@ -117,7 +117,7 @@ api.addAchievements(id, achievement, callback);
 
 ## Documentation for API Endpoints
 
-All URIs are relative to *http://todobudget.swagger.io/api*
+All URIs are relative to *https://virtserver.swaggerhub.com/Peyton232/BucketBudget/1.0.0*
 
 Class | Method | HTTP request | Description
 ------------ | ------------- | ------------- | -------------

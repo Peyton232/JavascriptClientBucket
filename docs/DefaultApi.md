@@ -1,6 +1,6 @@
 # TodoBudget.DefaultApi
 
-All URIs are relative to *http://todobudget.swagger.io/api*
+All URIs are relative to *https://virtserver.swaggerhub.com/Peyton232/BucketBudget/1.0.0*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
